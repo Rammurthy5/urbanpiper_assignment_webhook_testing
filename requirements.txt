@@ -7,4 +7,5 @@ apscheduler==3.7.0
 model_bakery==1.2.1
 sphinx==3.5.3
 django-cors-headers==3.7.0
-gunicorn
+gunicorn==20.1.0
+whitenoise==5.2.0
