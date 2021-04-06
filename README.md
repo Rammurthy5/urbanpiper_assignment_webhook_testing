@@ -13,3 +13,5 @@ A RESTful App to support users to create new endpoints, post data to that, and a
 
     CodeCoverage: 60%
 Documented by Swagger, and Sphinx.
+
+Hosted on Heroku, Gunicorn
